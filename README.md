@@ -1,15 +1,15 @@
 
-<h1 align="center">Ali Akbar Khan</h1>
+<h1 align="center">Ahetesham</h1>
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Developer+and+more" alt="Typing SVG" /></a>
-<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/derewio-1d534a30-bf98-4e95-b876-267b0bfea1a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVyZXdpby0xZDUzNGEzMC1iZjk4LTRlOTUtYjg3Ni0yNjdiMGJmZWExYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MAHYh1Xpqjv-R0cSZtCRbmyO13JzitShLyOvTdYtJ9g" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C300&width=435&lines=Welcome%2C+to+my+Github+Profile;I'm+a+Java+Developer+and+more" alt="Typing SVG" /></a><br>
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dh3gp8s-2ac87ac8-ac0a-4c7f-b901-5fbf4a57a3ed.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZGgzZ3A4cy0yYWM4N2FjOC1hYzBhLTRjN2YtYjkwMS01ZmJmNGE1N2EzZWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._TnttJrC_0O2gVA7gB6ooFvi4FsHPtOmmo3eMuB1k7w" />
 </p>
 
 <p>
   
-#### I am Ali Akbar Khan, a second-year B.Tech CSE student at Arya College of Engineering, with a passion for Machine Learning and Software Engineering. I have strong technical skills in Programming Languages such as Java, Python, C++, C, SQL, and Web Development, alongside expertise in UX/UI Design, Game Development, and Graphics Design. I aim to contribute to impactful projects and create solutions that make a difference.
+#### I am Ahetesham, a B.Tech CSE student at Arya College of Engineering, with a passion for Machine Learning and Software Engineering. I have strong technical skills in Programming Languages such as Java, Python, C++, C, SQL, and Web Development, alongside expertise in UX/UI Design, Game Development, and Graphics Design. I aim to contribute to impactful projects and create solutions that make a difference.
 
 
 </p>
