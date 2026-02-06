@@ -78,7 +78,7 @@ Built and optimized small-scale projects using core Java, JDBC, and Swing.
 <br>
   
 - **Arya College of Engineering, Jaipur** (Sep 2023 – Present)  
-  **B. Tech in Computer Science** | CGPA: 8.5/10  
+  **B. Tech in Computer Science** | CGPA: 7/10  
   *Relevant Coursework*: Data Structures, Algorithms, Machine Learning, Databases, Operating Systems, Computer Networks  
 
 - **Kendriya Vidyalaya Jhalawar** (May 2011 – Feb 2023)  
